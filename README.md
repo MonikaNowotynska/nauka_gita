@@ -5,6 +5,6 @@ nie ogarniam ;)
 ## Development
 
 moj pierwszy commit
-mj drugi commit
-
+moj drugi commit
+moj trzeci commit
 ## Nauka trwa
