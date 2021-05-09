@@ -1,5 +1,7 @@
 # Nauka GITA
 
-python do_test.py -- user $USER -- password $PASSW
+nie ogarniam ;)
 
 ## Development
+
+moj pierwszy commit
